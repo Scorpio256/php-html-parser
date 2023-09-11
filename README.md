@@ -13,7 +13,7 @@ Install
 Install the latest version using composer.
 
 ```bash
-$ composer require paquettg/php-html-parser
+$ composer require scorpio256/php-html-parser
 ```
 
 This package can be found on [packagist](https://packagist.org/packages/paquettg/php-html-parser) and is best loaded using [composer](http://getcomposer.org/). We support php 7.2, 7.3, and 7.4.
